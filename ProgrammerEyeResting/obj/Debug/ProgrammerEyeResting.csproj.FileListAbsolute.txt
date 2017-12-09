@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\bin\Debug\ProgrammerEyeResting.exe.config
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\bin\Debug\ProgrammerEyeResting.exe
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\bin\Debug\ProgrammerEyeResting.pdb
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.Form1.resources
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.Properties.Resources.resources
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.exe
+D:\VisualStudioProjects\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.pdb
+C:\Users\asus\Desktop\ProgrammerEyeResting\ProgrammerEyeResting\bin\Debug\ProgrammerEyeResting.exe.config
+C:\Users\asus\Desktop\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.exe
+C:\Users\asus\Desktop\ProgrammerEyeResting\ProgrammerEyeResting\obj\Debug\ProgrammerEyeResting.pdb
